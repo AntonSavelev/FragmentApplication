@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FragmentApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fragment Application</string>
+    <string name="nav_header_subtitle">fragment_app@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="list1_title">Text size</string>
+    <string name="list1_summary">Set size of the text Set size of the text Set size of the text Set size of the text Set size of the text </string>
+    <string name="list2_title">Text color</string>
+    <string name="list2_summary">Set color of the text</string>
+    <string-array name="entries_size">
+        <item>16 size</item>
+        <item>20 size</item>
+        <item>24 size</item>
+    </string-array>
+    <string-array name="entry_size_values">
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+    </string-array>
+        <string-array name="entries_color">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="entry_color_values">
+        <item>#FF0000</item>
+        <item>#008000</item>
+        <item>#000000</item>
+    </string-array>
+
+</resources>

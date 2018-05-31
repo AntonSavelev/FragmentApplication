@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:entries="@array/entries_size"
+        android:entryValues="@array/entry_size_values"
+        android:key="list1"
+        android:summary="@string/list1_summary"
+        android:title="@string/list1_title"></ListPreference>
+
+    <ListPreference
+        android:entries="@array/entries_color"
+        android:entryValues="@array/entry_color_values"
+        android:key="list2"
+        android:summary="@string/list2_summary"
+        android:title="@string/list2_title"></ListPreference>
+
+</PreferenceScreen>
